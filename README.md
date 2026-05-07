@@ -53,7 +53,8 @@ For end users, the application provides a dashboard and a dedicated tasks page w
 <img width="700" height="500" alt="Screenshot 2026-05-07 at 13 53 40" src="https://github.com/user-attachments/assets/0639b5fc-87c9-43c6-b09f-56956333b873" />
 <img width="700" height="500" alt="Screenshot 2026-05-07 at 13 53 54" src="https://github.com/user-attachments/assets/3874d6b0-26f8-41d2-ab21-6e180203207d" />
 ### Change Theme and LogOut
-<img width="700" height="700" alt="Screenshot 2026-05-07 at 13 54 35" src="https://github.com/user-attachments/assets/205dd4ed-036e-4169-8a88-81de1e4e4ad8" />
+<img width="1511" height="285" alt="Screenshot 2026-05-07 at 13 54 35" src="https://github.com/user-attachments/assets/e14abed1-c5dc-484a-86b2-bb8919fef086" />
+
 
 
 
